@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jalynoh.github.io/sitev2/",
+  "homepage": "https://jalynoh.github.io/sitev2/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
