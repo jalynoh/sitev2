@@ -1,7 +1,7 @@
 {
   "main.css": "/sitev2/static/css/main.76575012.chunk.css",
-  "main.js": "/sitev2/static/js/main.5fe898d2.chunk.js",
-  "main.js.map": "/sitev2/static/js/main.5fe898d2.chunk.js.map",
+  "main.js": "/sitev2/static/js/main.ea4874f5.chunk.js",
+  "main.js.map": "/sitev2/static/js/main.ea4874f5.chunk.js.map",
   "static/js/1.6105a37c.chunk.js": "/sitev2/static/js/1.6105a37c.chunk.js",
   "static/js/1.6105a37c.chunk.js.map": "/sitev2/static/js/1.6105a37c.chunk.js.map",
   "runtime~main.js": "/sitev2/static/js/runtime~main.88b30fed.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/sitev2/static/media/logo.5d5d9eef.svg",
   "static/css/main.76575012.chunk.css.map": "/sitev2/static/css/main.76575012.chunk.css.map",
   "index.html": "/sitev2/index.html",
-  "precache-manifest.28d6299ce22d6c25226efde94cf9671f.js": "/sitev2/precache-manifest.28d6299ce22d6c25226efde94cf9671f.js",
+  "precache-manifest.4cfa71b03326eeee209c3d6c8a1e81d5.js": "/sitev2/precache-manifest.4cfa71b03326eeee209c3d6c8a1e81d5.js",
   "service-worker.js": "/sitev2/service-worker.js"
 }
