@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/sitev2/static/js/runtime~main.88b30fed.js"
   },
   {
-    "revision": "21cc3fb9fe000946c664",
-    "url": "/sitev2/static/js/main.21cc3fb9.chunk.js"
+    "revision": "5fe898d26bedd06c8541",
+    "url": "/sitev2/static/js/main.5fe898d2.chunk.js"
   },
   {
     "revision": "6105a37ce77693a684b2",
     "url": "/sitev2/static/js/1.6105a37c.chunk.js"
   },
   {
-    "revision": "21cc3fb9fe000946c664",
+    "revision": "5fe898d26bedd06c8541",
     "url": "/sitev2/static/css/main.76575012.chunk.css"
   },
   {
-    "revision": "8d91acda5a5767b88c9a863f9fec8bc4",
+    "revision": "90fdaf97dd15edc0a73c4e9321cca4ed",
     "url": "/sitev2/index.html"
   }
 ];

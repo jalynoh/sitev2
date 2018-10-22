@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/sitev2/precache-manifest.a3b4474f50e6c6f3ab96bd4d2d3bf377.js"
+  "/sitev2/precache-manifest.28d6299ce22d6c25226efde94cf9671f.js"
 );
 
 workbox.clientsClaim();
